@@ -1,0 +1,15 @@
+<?Xml version="1,0" encoding="UTF8"?>
+<rectangulo>
+	<altura medida_alt="120"></altura>
+	<anchura medida_anch="150"></anchura>
+	<vertice posicion_vert="150,400"></vertice>
+</rectangulo>
+<circumferencia>
+	<centro posicion_cent ="400,400"></centro>
+	<radio medida_rad="100"></radio>
+</circumferencia>
+<linea>
+	<ruta>
+		<comienzo c_dist="300,800"></comienzo>
+		<final f_dist="400,400"></final>
+	</ruta>
