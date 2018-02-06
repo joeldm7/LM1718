@@ -1,0 +1,19 @@
+<?Xml version="1,0" encoding="UTF8"?>
+<evento1>
+	<señal tipo="accidente"></señal>
+	<punto_kilometrico medida="42,200"></punto_kilometrico>
+	<nombre_via n="A-49"></nombre_via>
+	<sentido sn="Huelva"></sentido>
+	<corte_via nvia="1 carril"></corte_via>
+	<fecha_hora fh="evento"></fecha_hora>
+	<retencion tp="Sí"></retencion>
+	<kilometros_retencion km="8"></kilometros_retencion>
+</evento1>
+<evento2>
+	<señal tipo="retencion"></señal>
+	<punto_kilometrico medida="550"></punto_kilometrico>
+	<nombre_via n="A-4"></nombre_via>
+	<sentido sn="Sevilla"></sentido>
+	<fecha_hora fh="evento"></fecha_hora>
+	<retencion tp="Sí"></retencion>
+	<kilometros_retencion km="3"></kilometros_retencion>
