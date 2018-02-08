@@ -1,0 +1,21 @@
+<?Xml version="1,0" encoding="UTF8"?>
+<biblioteca>
+	<libros cod_lib='1'>
+		<ISBN_libro></ISBN_libro>
+		<nombre_libro></nombre_libro>
+		<editorial_libro></editorial_libro>
+		<año_publicacion></año_publicacion>
+		<autor_libro></autor_libro>
+		<num_ejemplares cod_ejemplares='1'></num_ejemplares>
+		<prestamo_ejemplar>
+			<ejemplar_prestado cod_prestado='1'></ejemplar_prestado>
+			<socio_prestado cod_socio='1'></socio_prestado>
+			<fecha_prestamo></fecha_prestamo>
+		</prestamo_ejemplar>
+		<socio cod_socio='1'>
+			<dni_socio></dni_socio>
+			<nombre_socio></nombre_socio>
+			<direccion_socio></direccion_socio>
+		</socio>
+	</libros>
+</biblioteca>

@@ -1,0 +1,19 @@
+<?Xml version="1,0" encoding="UTF8"?>
+<factura>
+	<código></código>
+	<fecha_emision></fecha_emision>
+	<cliente cod_cli='1'>
+		<dni></dni>
+		<nombre></nombre>
+		<dirección></dirección>
+		<códigopostal></códigopostal>
+		<población></población>
+	</cliente>
+	<producto cod_prod='1'>
+		<cantidad_comprados></cantidad_comprados>
+		<denominación></denominación>
+		<precio_ubnitario></precio_ubnitario>
+		<iva_producto></iva_producto>
+	<descuento_factura></descuento_factura>
+	</producto>
+</factura>
